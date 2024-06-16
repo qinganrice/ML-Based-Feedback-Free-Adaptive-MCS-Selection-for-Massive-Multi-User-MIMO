@@ -13,7 +13,7 @@ Dataset is in dataset_process folder. We use post_data.py to process raw_dataset
 
 We use test.py to check inter-user correlation in each dataset. (correlated / uncorrelated scenarios)
 
-Because space limitation, we put our dataset here: https://drive.google.com/drive/folders/14Y2T6d2ctpwNIt9dlIJguMCO-mFgZ4n8?usp=sharing
+Because of space limitation, we put our dataset here: https://drive.google.com/drive/folders/14Y2T6d2ctpwNIt9dlIJguMCO-mFgZ4n8?usp=sharing
 
 ## Train
 Once you have created the dataset, start training ->
